@@ -1,0 +1,26 @@
+{
+  "name": "calculate-coordinates",
+  "version": "1.0.0",
+  "author": "wellingtonmacena <wellington.macena.23@gmail.com>",
+  "description": "API to calculate distance between coordinates",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wellingtonmacena/calculate-coordinates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wellingtonmacena/calculate-coordinates/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "coordinates",
+    "calculate",
+    "distance",
+    "calculate distance",
+    "calculate kilometers"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/wellingtonmacena"
+  }
+}
