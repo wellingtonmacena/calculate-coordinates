@@ -1,14 +1,9 @@
 {
   "name": "calculate-coordinates",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "author": "wellingtonmacena <wellington.macena.23@gmail.com>",
   "description": "API to calculate distance between coordinates returning a result in KM",
   "main": "index.js",
-  "module": "index.js",
-  "files": [
-    "src",
-    "index.d.ts"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/wellingtonmacena/calculate-coordinates.git"

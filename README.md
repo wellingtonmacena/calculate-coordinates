@@ -16,7 +16,6 @@ $ npm install calculate-coordinates
 ```js
 const calculate = require('calculate-coordinates');
 
-const cal = new calculate();
 let centerCoordinates = [-23.0000, -46.0000];
 let extremeCoordinates = [-23.5000, -46.5000];
 
@@ -31,7 +30,6 @@ console.log(result);
 ```js
 const calculate = require('calculate-coordinates');
 
-const cal = new calculate();
 let centerCoordinates = [-23.0000, -46.0000];
 let extremeCoordinates = [-23.5000, -46.5000];
 
